@@ -1,0 +1,16 @@
+{
+  "name": "hermes-no-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.22.10",
+    "babel-plugin-syntax-hermes-parser": "^0.15.1"
+  }
+}
